@@ -1,0 +1,15 @@
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\bin\Debug\net7.0\IsraeliFlag1.exe
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\bin\Debug\net7.0\IsraeliFlag1.deps.json
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\bin\Debug\net7.0\IsraeliFlag1.runtimeconfig.json
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\bin\Debug\net7.0\IsraeliFlag1.dll
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\bin\Debug\net7.0\IsraeliFlag1.pdb
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\obj\Debug\net7.0\IsraeliFlag1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\obj\Debug\net7.0\IsraeliFlag1.AssemblyInfoInputs.cache
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\obj\Debug\net7.0\IsraeliFlag1.AssemblyInfo.cs
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\obj\Debug\net7.0\IsraeliFlag1.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\obj\Debug\net7.0\IsraeliFlag1.sourcelink.json
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\obj\Debug\net7.0\IsraeliFlag1.dll
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\obj\Debug\net7.0\refint\IsraeliFlag1.dll
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\obj\Debug\net7.0\IsraeliFlag1.pdb
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\obj\Debug\net7.0\IsraeliFlag1.genruntimeconfig.cache
+C:\Users\WIN10\Downloads\עבודה\IsraeliFlag1\IsraeliFlag1\obj\Debug\net7.0\ref\IsraeliFlag1.dll
